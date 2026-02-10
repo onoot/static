@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktiger_clicker=self.webpackChunktiger_clicker||[]).push([[298],{3298:(e,a,n)=>{n.r(a),n.d(a,{default:()=>l});n(5043);var c=n(5806),i=n(579);const l=()=>(0,i.jsx)("div",{className:c.A.mainPanel,children:"SUPER GAME"})},5806:(e,a,n)=>{n.d(a,{A:()=>c});const c={mainPanel:"mainPanel_mainPanel__1WCQ9"}}}]);
+//# sourceMappingURL=298.92ccc8c6.chunk.js.map
